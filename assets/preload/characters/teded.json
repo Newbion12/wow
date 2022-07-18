@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ted idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				134
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ted left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				89
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ted down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				164
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ted up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				112
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ted right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "memz/ChuckTed",
+	"position": [
+		120,
+		300
+	],
+	"healthicon": "nothin",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
