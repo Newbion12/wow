@@ -1,0 +1,86 @@
+{
+	"storyName": "Wanna Play?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Friends To The End",
+			"chucky",
+			[
+				255,
+				160,
+				2
+			]
+		],
+		[
+			"Lakeshore",
+			"chucky",
+			[
+				255,
+				160,
+				2
+			]
+		],
+		[
+			"Hide The Soul",
+			"chucky",
+			[
+				255,
+				160,
+				2
+			]
+		],
+		[
+			"Tommy",
+			"chucky",
+			[
+				255,
+				160,
+				2
+			]
+		],
+		[
+			"More Than A Buddi",
+			"nothin",
+			[
+				146,
+				146,
+				253
+			]
+		],
+		[
+			"Ted Ed",
+			"nothin",
+			[
+				146,
+				146,
+				253
+			]
+		],
+		[
+			"Confronting Yourself",
+			"nothin",
+			[
+				106,
+				106,
+				213
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Charles' Week",
+	"hiddenUntilUnlocked": false
+}
