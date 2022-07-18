@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "place",
+		"player1": "bf",
+		"player2": "chucky",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "nothing",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Friends To The End"
+	}
+}
