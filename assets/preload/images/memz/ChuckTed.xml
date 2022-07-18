@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ted.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ted down0000" x="0" y="0" width="523" height="725" frameX="0" frameY="-15" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0001" x="523" y="0" width="520" height="732" frameX="-3" frameY="-9" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0002" x="1043" y="0" width="526" height="736" frameX="-6" frameY="-5" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0003" x="1569" y="0" width="531" height="739" frameX="-8" frameY="-2" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0004" x="2100" y="0" width="534" height="740" frameX="-10" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0005" x="2634" y="0" width="536" height="740" frameX="-11" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0006" x="3170" y="0" width="537" height="741" frameX="-11" frameY="0" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0007" x="3707" y="0" width="538" height="741" frameX="-11" frameY="0" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0008" x="4245" y="0" width="536" height="740" frameX="-11" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0009" x="4245" y="0" width="536" height="740" frameX="-11" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0010" x="4245" y="0" width="536" height="740" frameX="-11" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0011" x="4245" y="0" width="536" height="740" frameX="-11" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0012" x="4245" y="0" width="536" height="740" frameX="-11" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted down0013" x="4245" y="0" width="536" height="740" frameX="-11" frameY="-1" frameWidth="549" frameHeight="741"/>
+	<SubTexture name="ted idle0000" x="4781" y="0" width="663" height="745" frameX="0" frameY="-9" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0001" x="5444" y="0" width="654" height="749" frameX="-6" frameY="-5" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0002" x="6098" y="0" width="648" height="751" frameX="-10" frameY="-3" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0003" x="6746" y="0" width="644" height="752" frameX="-13" frameY="-2" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0004" x="7390" y="0" width="641" height="753" frameX="-15" frameY="-1" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0005" x="0" y="753" width="639" height="754" frameX="-16" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0006" x="639" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0007" x="1277" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0008" x="1915" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0009" x="1915" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0010" x="1915" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0011" x="1915" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0012" x="1915" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted idle0013" x="1915" y="753" width="638" height="754" frameX="-17" frameY="0" frameWidth="663" frameHeight="754"/>
+	<SubTexture name="ted left0000" x="2553" y="753" width="621" height="776" frameX="0" frameY="0" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0001" x="3174" y="753" width="601" height="769" frameX="-21" frameY="-7" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0002" x="3775" y="753" width="586" height="764" frameX="-37" frameY="-12" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0003" x="4361" y="753" width="575" height="760" frameX="-48" frameY="-16" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0004" x="4936" y="753" width="569" height="757" frameX="-55" frameY="-19" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0005" x="5505" y="753" width="564" height="755" frameX="-60" frameY="-21" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0006" x="6069" y="753" width="562" height="754" frameX="-62" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0007" x="6631" y="753" width="561" height="754" frameX="-63" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0008" x="7192" y="753" width="561" height="754" frameX="-63" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0009" x="7192" y="753" width="561" height="754" frameX="-63" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0010" x="7192" y="753" width="561" height="754" frameX="-63" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0011" x="7192" y="753" width="561" height="754" frameX="-63" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0012" x="7192" y="753" width="561" height="754" frameX="-63" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted left0013" x="7192" y="753" width="561" height="754" frameX="-63" frameY="-22" frameWidth="624" frameHeight="776"/>
+	<SubTexture name="ted right0000" x="0" y="1529" width="576" height="750" frameX="-27" frameY="-4" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0001" x="576" y="1529" width="572" height="750" frameX="-18" frameY="-4" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0002" x="1148" y="1529" width="570" height="749" frameX="-11" frameY="-5" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0003" x="1718" y="1529" width="567" height="749" frameX="-7" frameY="-5" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0004" x="2285" y="1529" width="566" height="751" frameX="-3" frameY="-3" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0005" x="2851" y="1529" width="565" height="753" frameX="-1" frameY="-1" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0006" x="3416" y="1529" width="563" height="754" frameX="-1" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0007" x="3979" y="1529" width="564" height="754" frameX="0" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0008" x="4543" y="1529" width="564" height="754" frameX="0" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0009" x="4543" y="1529" width="564" height="754" frameX="0" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0010" x="4543" y="1529" width="564" height="754" frameX="0" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0011" x="4543" y="1529" width="564" height="754" frameX="0" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0012" x="4543" y="1529" width="564" height="754" frameX="0" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted right0013" x="4543" y="1529" width="564" height="754" frameX="0" frameY="0" frameWidth="603" frameHeight="754"/>
+	<SubTexture name="ted up0000" x="5107" y="1529" width="635" height="820"/>
+	<SubTexture name="ted up0001" x="5742" y="1529" width="599" height="809" frameX="-31" frameY="-11" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0002" x="6341" y="1529" width="576" height="800" frameX="-51" frameY="-20" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0003" x="6917" y="1529" width="559" height="792" frameX="-65" frameY="-27" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0004" x="7476" y="1529" width="548" height="790" frameX="-74" frameY="-29" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0005" x="0" y="2349" width="542" height="790" frameX="-79" frameY="-29" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0006" x="542" y="2349" width="539" height="790" frameX="-82" frameY="-29" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0007" x="1081" y="2349" width="538" height="790" frameX="-82" frameY="-29" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0008" x="1619" y="2349" width="536" height="788" frameX="-83" frameY="-31" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0009" x="1619" y="2349" width="536" height="788" frameX="-83" frameY="-31" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0010" x="1619" y="2349" width="536" height="788" frameX="-83" frameY="-31" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0011" x="1619" y="2349" width="536" height="788" frameX="-83" frameY="-31" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0012" x="1619" y="2349" width="536" height="788" frameX="-83" frameY="-31" frameWidth="635" frameHeight="820"/>
+	<SubTexture name="ted up0013" x="1619" y="2349" width="536" height="788" frameX="-83" frameY="-31" frameWidth="635" frameHeight="820"/>
+</TextureAtlas>
